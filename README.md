@@ -29,3 +29,12 @@ Contenido:
       - Storage
         * S3 Buckets
         * Amazon Glacier
+5.  Práctica
+  + Crear una VPC
+  + Añadir el internet gateway
+  + Crear una instancia en la región us-east-1 desde la consola con acceso a internet y conectarse a través de SSH.
+  + Crear un S3 bucket con un archivo de texto dentro de una carpeta llamada "Devops101" y copiar el archivo a la instancia.
+
+6. IaC (Infrastructure as Code)
+  + Cloudformation
+  + Terraform
