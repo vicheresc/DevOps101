@@ -21,6 +21,7 @@ Contenido:
         * Roles
       - VPC (Virtual Private Cloud)
         * Private Subnets
+        * Public Subnets
         * Internet Gateway
       - Route 53
       - EC2 (Elastic Compute Cloud)
